@@ -1,0 +1,4 @@
+kaitlyn,k8lyn.mac@gmail.com,artithekit
+Kaitlyn,mclaukai@oregonstate.edu,password123
+user1,email@gmail.com,password12
+joshdoe,john@gmail.com,123pass
